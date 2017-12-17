@@ -8,4 +8,5 @@
 
 #HowTO Use:
 	- Switch to root or use Sudo. (Required to open raw socket )
-	- <binary_name> <name_of_card_for_monitoring>
+
+	- sudo <binary_name> <name_of_card_for_monitoring>
